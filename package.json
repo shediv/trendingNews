@@ -1,0 +1,27 @@
+{
+  "name": "trending news",
+  "version": "0.1.5",
+  "description": "A sample project to get the trending news across mutiple countries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "ng-country-select": "^0.1.4",
+    "supervisor": "^0.12.0"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
